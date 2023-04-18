@@ -1,6 +1,8 @@
 # Netflix_Movies And TV Shows_Clustering
 
-https://user-images.githubusercontent.com/113963339/213934250-58cf1d46-d11c-43dd-af89-741483388519.jpg
+Netflix-Movies-and-TV-Shows-Clustering AlmaBetter Capstone Project 1_MlYDmLXuoeOLHiJoIIjsRg 
+
+
 
 Objectives: Conduct Exploratory Data Analysis.
 
