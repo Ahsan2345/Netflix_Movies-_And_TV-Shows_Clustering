@@ -1,8 +1,6 @@
 # Netflix_Movies And TV Shows_Clustering
 
-Netflix-Movies-and-TV-Shows-Clustering AlmaBetter Capstone Project 1_MlYDmLXuoeOLHiJoIIjsRg 
-
-
+ /html/body/img
 
 Objectives: Conduct Exploratory Data Analysis.
 
